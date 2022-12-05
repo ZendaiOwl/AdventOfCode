@@ -2,4 +2,6 @@
 
 Advent of Code with JavaScript
 
-Honestly I just made this section, I have no idea if I will actually solve it using JS. I'll see
+Honestly I just made this section, I have no idea if I will actually solve it using JavaScript. 
+
+I'll see what happens, maybe this year, maybe the next, time will tell.
