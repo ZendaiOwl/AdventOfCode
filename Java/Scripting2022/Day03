@@ -7,6 +7,7 @@ public class ScriptJava {
 
 private static final String TXTFile = "../../2022/Inputs/Day03.txt";
 private static File TextInput;
+
   public static void main(String[] args) {
     getInput();
   }
