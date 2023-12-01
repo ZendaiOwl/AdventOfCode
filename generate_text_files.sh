@@ -10,7 +10,9 @@ fi
 
 for i in {01..24}
 do
-    :> "./${PATH}/Day${i}".txt
+    /run/current-system/sw/bin/mkdir -p "./${PATH}/Day${i}"
+    :> "./${PATH}/Day${i}/Day${i}.txt"
+    :> "./${PATH}/Day${i}/input.txt"
 done
 
 exit 0
